@@ -394,6 +394,11 @@ margin-top: 17px;
 .card-body{
 padding: 0.25rem!important;
 }
+
+.card{
+  width: 100%;
+}
+
 .row{
   margin-bottom: 10px!important;
 }
@@ -407,3 +412,7 @@ padding: 0.25rem!important;
     margin-left: -15;
   }
 }
+
+.text-center{
+    width: 100%;
+  }
